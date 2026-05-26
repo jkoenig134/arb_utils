@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.11.1
+
+- Removed unused dart_console dependency.
+
 ## 0.11.0
 
 - Added improved `add` command with human-friendly and JSON template syntax.
