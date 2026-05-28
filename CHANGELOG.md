@@ -3,6 +3,7 @@
 ## 0.11.1
 
 - Removed unused dart_console dependency.
+- Added support for dcli v9.
 
 ## 0.11.0
 
@@ -19,7 +20,6 @@
 ## 0.10.0
 
 - Solved issue with default locale in null
-
 
 ## 0.9.0
 
